@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\bin\Debug\practice for the test.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\bin\Debug\practice for the test.exe
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\bin\Debug\practice for the test.pdb
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\obj\Debug\practice for the test.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\obj\Debug\practice for the test.exe
+C:\Users\Technologist SP\Documents\GitHub\Hangman\practice for the test\practice for the test\obj\Debug\practice for the test.pdb

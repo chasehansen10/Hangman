@@ -1,0 +1,6 @@
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.exe.config
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.exe
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\bin\Debug\Week2CodeChallenge.pdb
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.exe
+C:\Users\Technologist SP\Documents\GitHub\Hangman\Week2CodeChallenge\Week2CodeChallenge\obj\Debug\Week2CodeChallenge.pdb
